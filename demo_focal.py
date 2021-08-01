@@ -100,6 +100,7 @@ def main():
     for frame, focals in get_frames(video_name, video_type, img2d_ref, start_focal_num, last_focal_num):
         frame_num += 1
         if is_first_frame:
+            # hello!
             try:
                 for k in range(tracker_num):
                     init_rect = cv2.selectROI(video_name, frame, True, False)
