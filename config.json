@@ -1,0 +1,12 @@
+{
+    "name": "tracking demo",
+    "save_path": "save",
+    "pretrained_model": "pretrained_model/model.pth",
+    "video_name": "E:\\NonVideo3",
+    "video_type": "3D",
+    "image2d_ref": "images/005.png",
+    "is_gt_on": false,
+    "is_record": true,
+    "start_focal_num": 20,
+    "last_focal_num": 50
+}

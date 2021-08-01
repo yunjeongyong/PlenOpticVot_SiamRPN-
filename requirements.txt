@@ -1,0 +1,40 @@
+autopep8==1.5.4
+certifi==2020.6.20
+cffi @ file:///C:/ci/cffi_1600699250966/work
+colorama==0.4.3
+cycler==0.10.0
+Cython==0.29.21
+decorator==4.4.2
+imageio==2.9.0
+kiwisolver==1.2.0
+matplotlib==3.3.0
+mkl-fft==1.2.0
+mkl-random==1.0.4
+mkl-service==2.3.0
+networkx==2.5
+numpy @ file:///C:/ci/numpy_and_numpy_base_1603468620949/work
+olefile==0.46
+opencv-python==4.3.0.36
+pandas @ file:///C:/ci/pandas_1602088205210/work
+Pillow @ file:///C:/ci/pillow_1603821929285/work
+protobuf==3.12.4
+pycodestyle==2.6.0
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pyparsing==2.4.7
+python-dateutil==2.8.1
+pytz==2020.1
+PyWavelets==1.1.1
+PyYAML==5.3.1
+scikit-image==0.17.2
+scipy==1.5.2
+six==1.15.0
+tensorboardX==2.1
+tifffile==2020.10.1
+toml==0.10.1
+torch==1.7.0
+#torchaudio==0.8.0
+torchvision==0.8.1
+tqdm==4.48.1
+typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1598376058250/work
+wincertstore==0.2
+yacs==0.1.7
